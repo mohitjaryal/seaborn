@@ -1,7 +1,3 @@
-This is a comprehensive README designed to showcase your deep dive into Seaborn. It’s structured to be both a learning resource for others and a professional portfolio piece for your GitHub.
-
----
-
 # 📊 Seaborn: Mastery & Data Visualization
 
 Welcome to the **Seaborn Mastery** repository! This project is a comprehensive guide and technical implementation of the Seaborn library, transitioning from basic plots to complex multi-plot grids.
